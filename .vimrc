@@ -5,8 +5,8 @@ endif
 set smartindent
 set smarttab
 set autoindent
-set ts=4
-set sw=4
+set ts=3
+set sw=3
 set number
 syntax on
 set showmatch
