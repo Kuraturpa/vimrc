@@ -26,3 +26,5 @@ if $TERM == "gnome-terminal"
 		au VimLeave * silent execute "!gconftool-2 --type string --set /apps/gnome-terminal/profiles/Default/cursor_shape ibeam"
 	endif
 endif
+
+au VimEnter * NERDTree
