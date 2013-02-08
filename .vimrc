@@ -27,4 +27,4 @@ if $TERM == "gnome-terminal"
 	endif
 endif
 
-au VimEnter * NERDTree
+"au VimEnter * NERDTree"
